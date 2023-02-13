@@ -1,0 +1,38 @@
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.exe
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.deps.json
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.runtimeconfig.json
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.runtimeconfig.dev.json
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.dll
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.pdb
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.csproj.AssemblyReference.cache
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.Form1.resources
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.csproj.GenerateResource.cache
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.AssemblyInfoInputs.cache
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.AssemblyInfo.cs
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.csproj.CoreCompileInputs.cache
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.dll
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.pdb
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.genruntimeconfig.cache
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.Properties.Resources.resources
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.AboutUs.resources
+C:\Users\diogo.formosinho\source\repos\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.Menu.resources
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.csproj.AssemblyReference.cache
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.dll
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.pdb
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.exe
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.deps.json
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.runtimeconfig.json
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.runtimeconfig.dev.json
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.dll
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\bin\Debug\netcoreapp3.1\RenameJsonLogicApp.pdb
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.AboutUs.resources
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.Form1.resources
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.Menu.resources
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.Properties.Resources.resources
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.csproj.GenerateResource.cache
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.AssemblyInfoInputs.cache
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.AssemblyInfo.cs
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.csproj.CoreCompileInputs.cache
+D:\GitHub\Logic-Apps-and-Power-Automate-Resources\Tools\Logic App-Power Automate Action Name to Code Translator Tool\RenameJsonLogicApp\RenameJsonLogicApp\obj\Debug\netcoreapp3.1\RenameJsonLogicApp.genruntimeconfig.cache
