@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "RenameJsonLogicApp/1.0.0": {
+      "LogicAppActionNameTranslator/1.0.0": {
         "runtime": {
-          "RenameJsonLogicApp.dll": {}
+          "LogicAppActionNameTranslator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "RenameJsonLogicApp/1.0.0": {
+    "LogicAppActionNameTranslator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

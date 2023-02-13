@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Logic-Apps-and-Power-Automate-Resources\\Tools\\Logic App-Power Automate Action Name to Code Translator Tool\\RenameJsonLogicApp\\RenameJsonLogicApp\\RenameJsonLogicApp.csproj",
-      "projectName": "RenameJsonLogicApp",
-      "projectPath": "D:\\GitHub\\Logic-Apps-and-Power-Automate-Resources\\Tools\\Logic App-Power Automate Action Name to Code Translator Tool\\RenameJsonLogicApp\\RenameJsonLogicApp\\RenameJsonLogicApp.csproj",
+      "projectUniqueName": "D:\\GitHub\\Logic-Apps-and-Power-Automate-Resources\\Tools\\Logic-App-Power-Automate-Action-Name-to-Code-Translator-Tool\\LogicAppActionNameTranslator\\LogicAppActionNameTranslator\\LogicAppActionNameTranslator.csproj",
+      "projectName": "LogicAppActionNameTranslator",
+      "projectPath": "D:\\GitHub\\Logic-Apps-and-Power-Automate-Resources\\Tools\\Logic-App-Power-Automate-Action-Name-to-Code-Translator-Tool\\LogicAppActionNameTranslator\\LogicAppActionNameTranslator\\LogicAppActionNameTranslator.csproj",
       "packagesPath": "C:\\Users\\spereira\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Logic-Apps-and-Power-Automate-Resources\\Tools\\Logic App-Power Automate Action Name to Code Translator Tool\\RenameJsonLogicApp\\RenameJsonLogicApp\\obj\\",
+      "outputPath": "D:\\GitHub\\Logic-Apps-and-Power-Automate-Resources\\Tools\\Logic-App-Power-Automate-Action-Name-to-Code-Translator-Tool\\LogicAppActionNameTranslator\\LogicAppActionNameTranslator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spereira\\AppData\\Roaming\\NuGet\\NuGet.Config",

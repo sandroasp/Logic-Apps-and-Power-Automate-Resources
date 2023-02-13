@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameJsonLogicApp", "RenameJsonLogicApp\RenameJsonLogicApp.csproj", "{E36FF74D-837B-49D1-92D3-47FD24FB9302}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicAppActionNameTranslator", "LogicAppActionNameTranslator\LogicAppActionNameTranslator.csproj", "{E36FF74D-837B-49D1-92D3-47FD24FB9302}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
