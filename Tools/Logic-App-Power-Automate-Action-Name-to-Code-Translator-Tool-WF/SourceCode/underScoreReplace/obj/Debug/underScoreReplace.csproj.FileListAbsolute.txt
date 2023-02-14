@@ -1,0 +1,16 @@
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\bin\Debug\underScoreReplace.exe.config
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\bin\Debug\underScoreReplace.exe
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\bin\Debug\underScoreReplace.pdb
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.csproj.AssemblyReference.cache
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.Form1.resources
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.Properties.Resources.resources
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.csproj.GenerateResource.cache
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.csproj.CoreCompileInputs.cache
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.exe
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.pdb
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\bin\Debug\underScoreReplace.exe.manifest
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\bin\Debug\underScoreReplace.application
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.exe.manifest
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.application
+C:\Users\luis.rigueira\Desktop\underscoreReplace\underScoreReplace\underScoreReplace\obj\Debug\underScoreReplace.AboutForm.resources
