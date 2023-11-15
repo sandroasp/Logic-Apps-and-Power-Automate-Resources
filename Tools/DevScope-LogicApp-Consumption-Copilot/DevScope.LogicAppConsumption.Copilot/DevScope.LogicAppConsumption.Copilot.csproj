@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{80C72D8F-2693-49FF-A47D-B250068FB264}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DevScope.LogicAppConsumption.Copilot</RootNamespace>
+    <AssemblyName>DevScope.LogicAppConsumption.Copilot</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.1.2.10\lib\2.0\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Scintilla.NET, Version=5.3.2.9, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Scintilla.NET.5.3.2.9\lib\net45\Scintilla.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddParameterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddParameterForm.Designer.cs">
+      <DependentUpon>AddParameterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVariablesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVariablesForm.Designer.cs">
+      <DependentUpon>AddVariablesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddWorkFlowParameters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWorkFlowParameters.Designer.cs">
+      <DependentUpon>AddWorkFlowParameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditNodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditNodeForm.Designer.cs">
+      <DependentUpon>EditNodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnableDisableLogicAppForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnableDisableLogicAppForm.Designer.cs">
+      <DependentUpon>EnableDisableLogicAppForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormAddParam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormAddParam.Designer.cs">
+      <DependentUpon>MainFormAddParam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewEmptyLogicAppNameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewEmptyLogicAppNameForm.Designer.cs">
+      <DependentUpon>NewEmptyLogicAppNameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewLogicAppNameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewLogicAppNameForm.Designer.cs">
+      <DependentUpon>NewLogicAppNameForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddParameterForm.resx">
+      <DependentUpon>AddParameterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVariablesForm.resx">
+      <DependentUpon>AddVariablesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddWorkFlowParameters.resx">
+      <DependentUpon>AddWorkFlowParameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditNodeForm.resx">
+      <DependentUpon>EditNodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnableDisableLogicAppForm.resx">
+      <DependentUpon>EnableDisableLogicAppForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormAddParam.resx">
+      <DependentUpon>MainFormAddParam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewEmptyLogicAppNameForm.resx">
+      <DependentUpon>NewEmptyLogicAppNameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewLogicAppNameForm.resx">
+      <DependentUpon>NewLogicAppNameForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Scintilla.NET.5.3.2.9\build\scintilla.net.targets" Condition="Exists('..\packages\Scintilla.NET.5.3.2.9\build\scintilla.net.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Scintilla.NET.5.3.2.9\build\scintilla.net.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\..\WF_AddParam_LogicApps_luis\WF_AddParam_LogicApps\packages\Scintilla.NET.5.3.2.9\build\scintilla.net.targets'))" />
+  </Target>
+</Project>

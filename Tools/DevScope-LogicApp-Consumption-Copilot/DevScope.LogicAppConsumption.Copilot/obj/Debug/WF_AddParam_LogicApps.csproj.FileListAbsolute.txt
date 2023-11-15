@@ -1,0 +1,110 @@
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe.config
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.pdb
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.xml
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.MainFormAddParam.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.Properties.Resources.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.GenerateResource.cache
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CoreCompileInputs.cache
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CopyComplete
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.exe
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.pdb
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddParameterForm.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddVariablesForm.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Lexilla.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Scintilla.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Lexilla.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Scintilla.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\Scintilla.NET.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\ScintillaNET.dll
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.xml
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\bin\Debug\ScintillaNET.xml
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.AssemblyReference.cache
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddWorkFlowParameters.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewLogicAppNameForm.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewEmptyLogicAppNameForm.resources
+D:\Luis Rigueira\CSharp\WF_AddParametersToLogicApps\WF_AddParameters_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.EditNodeForm.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.exe
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.pdb
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.AssemblyReference.cache
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Lexilla.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Scintilla.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Lexilla.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Scintilla.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe.config
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.pdb
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Scintilla.NET.dll
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.xml
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddParameterForm.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddVariablesForm.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddWorkFlowParameters.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.EditNodeForm.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.MainFormAddParam.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewEmptyLogicAppNameForm.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewLogicAppNameForm.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.Properties.Resources.resources
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.GenerateResource.cache
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CoreCompileInputs.cache
+C:\Users\spereira\Downloads\WF_AddParam_LogicApps\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CopyComplete
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Lexilla.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Scintilla.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Lexilla.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Scintilla.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe.config
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.pdb
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Scintilla.NET.dll
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.xml
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.xml
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddParameterForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddVariablesForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddWorkFlowParameters.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.EditNodeForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.MainFormAddParam.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewEmptyLogicAppNameForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewLogicAppNameForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.Properties.Resources.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.GenerateResource.cache
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CoreCompileInputs.cache
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CopyComplete
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.exe
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.pdb
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.EnableDisableLogicAppForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AboutForm.resources
+D:\Luis Rigueira\CSharp\Sandro\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.AssemblyReference.cache
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Lexilla.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x64\Scintilla.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Lexilla.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\x86\Scintilla.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe.config
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.exe
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\WF_AddParam_LogicApps.pdb
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Scintilla.NET.dll
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\log4net.xml
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\bin\Debug\Newtonsoft.Json.xml
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.AssemblyReference.cache
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AboutForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddParameterForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddVariablesForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.AddWorkFlowParameters.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.EditNodeForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.EnableDisableLogicAppForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.MainFormAddParam.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewEmptyLogicAppNameForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.NewLogicAppNameForm.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.Properties.Resources.resources
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.GenerateResource.cache
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CoreCompileInputs.cache
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.csproj.CopyComplete
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.exe
+C:\Users\spereira\Downloads\OneDrive_1_09-11-2023\WF_AddParam_LogicApps\WF_AddParam_LogicApps\obj\Debug\WF_AddParam_LogicApps.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevScope.LogicAppConsumption.Copilot", "DevScope.LogicAppConsumption.Copilot\DevScope.LogicAppConsumption.Copilot.csproj", "{80C72D8F-2693-49FF-A47D-B250068FB264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C72D8F-2693-49FF-A47D-B250068FB264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C72D8F-2693-49FF-A47D-B250068FB264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C72D8F-2693-49FF-A47D-B250068FB264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C72D8F-2693-49FF-A47D-B250068FB264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A631B04C-503D-4D25-B1A2-5A9F8237FC11}
+	EndGlobalSection
+EndGlobal
