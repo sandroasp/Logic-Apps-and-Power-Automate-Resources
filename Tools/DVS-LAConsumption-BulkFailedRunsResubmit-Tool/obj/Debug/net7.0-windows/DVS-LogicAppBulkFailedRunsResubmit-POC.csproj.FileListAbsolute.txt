@@ -1,0 +1,88 @@
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.exe
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.deps.json
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.runtimeconfig.json
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.pdb
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Azure.Management.Logic.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Azure.Mobile.Client.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Rest.ClientRuntime.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\System.Net.Http.Json.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\System.Text.Json.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.AssemblyReference.cache
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.GenerateResource.cache
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.AssemblyInfoInputs.cache
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.AssemblyInfo.cs
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.CoreCompileInputs.cache
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.CopyComplete
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\refint\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.pdb
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.genruntimeconfig.cache
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\ref\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS_LogicAppBulkFailedRunsResubmit_POC.BulkFailedRunsResubmit.resources
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS_LogicAppBulkFailedRunsResubmit_POC.AboutForm.resources
+D:\Luis Rigueira\Windows Applications\2022-DVS-LogicAppBulkFailedRunsResubmit-POC\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS_LogicAppBulkFailedRunsResubmit_POC.Properties.Resources.resources
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.AssemblyReference.cache
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\refint\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.pdb
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.exe
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.deps.json
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.runtimeconfig.json
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.pdb
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Azure.Management.Logic.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Azure.Mobile.Client.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Rest.ClientRuntime.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\System.Net.Http.Json.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS_LogicAppBulkFailedRunsResubmit_POC.AboutForm.resources
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS_LogicAppBulkFailedRunsResubmit_POC.BulkFailedRunsResubmit.resources
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS_LogicAppBulkFailedRunsResubmit_POC.Properties.Resources.resources
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.GenerateResource.cache
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.AssemblyInfoInputs.cache
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.AssemblyInfo.cs
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.CoreCompileInputs.cache
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.csproj.CopyComplete
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\DVS-LogicAppBulkFailedRunsResubmit-POC.genruntimeconfig.cache
+C:\Users\spereira\Downloads\2022-DVS-\DVS-LogicAppBulkFailedRunsResubmit-POC\obj\Debug\net7.0-windows\ref\DVS-LogicAppBulkFailedRunsResubmit-POC.dll
